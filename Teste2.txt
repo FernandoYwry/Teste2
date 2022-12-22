@@ -1,2 +1,3 @@
-olá, vamos estudar git hoje- dia 20/12/1995
+olá, vamos estudar git hoje- dia 20/12/2022
 iriririri
+NOVA LINHA DE CÓDIGO CRIADA 21/12/2022
